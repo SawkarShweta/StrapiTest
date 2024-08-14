@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@strapi/plugin-i18n": "^4.25.6",
+    "axios": "^1.7.3",
+    "i18next": "^23.12.2",
+    "node": "^20.16.0",
+    "npm": "^10.8.2",
+    "react-i18next": "^15.0.0",
+    "stable": "^0.1.8"
+  }
+}
